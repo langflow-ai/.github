@@ -2,9 +2,6 @@
 
 We are [Logspace AI](https://logspace.ai/), a team of ambitious data engineers and scientists aiming to custom data solutions powered by state-of-the-art technologies with pipelines that start from experimentation all the way up to deployment.
 
-Transforming The Path To AI Integration.
-
-
 You can also follow us on our social media platforms.
 
 <p align="center">
